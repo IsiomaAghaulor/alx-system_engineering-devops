@@ -1,1 +1,1 @@
-0x00-shell_basics/ README.md file
+Display the contents list of your current directory.
